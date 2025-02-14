@@ -20,7 +20,7 @@ Setup Instructions
 
 Download the script:
 
-wget https://github.com/stspringer/OpenVPN-Setup/raw/main/setup.sh
+wget https://github.com/stspringer/OpenVPN-Setup/raw/main/Generic_Script_setup_Openvpn_Server_in_Linux_Mint_22.sh
 
 Make the script executable:
 
