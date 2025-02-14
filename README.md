@@ -50,7 +50,7 @@ Connect to your OpenVPN server from anywhere!
 
 Use Case Example
 
-I use this VPN setup to securely control my garage door and lights from anywhere in the world, ensuring secure remote access to my home network.
+I use this VPN setup to securely control my garage door and lights from anywhere, ensuring secure remote access to my home network.
 
 Issues & Contributions
 
